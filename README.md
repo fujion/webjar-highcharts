@@ -1,2 +1,3 @@
 # fujion-highcharts
-Web jar for https://code.highcharts.com.
+Web jar for highcharts.
+https://code.highcharts.com
