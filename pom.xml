@@ -9,7 +9,7 @@
 
 	<name>Highcharts Library</name>
 	<artifactId>webjar-highcharts</artifactId>
-	<version>7.1.2-SNAPSHOT</version>
+	<version>7.1.3-SNAPSHOT</version>
 	<description>Highcharts graphing library.</description>
 	
 	<properties>
