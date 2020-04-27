@@ -1,5 +1,5 @@
 {
-  "imports": {
-    "highcharts": "highcharts.js"
+  "paths": {
+    "highcharts": "dist/highcharts.js"
   }
 }

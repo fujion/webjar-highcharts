@@ -42,7 +42,7 @@
 						<id>postcompile</id>
 						<configuration>
 							<target>
-								<copy todir="${webjar.target}">
+								<copy todir="${webjar.target}/dist">
 									<fileset dir="${src.rootdir}/node_modules/highcharts" />
 								</copy>
 							</target>
